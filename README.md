@@ -1,6 +1,8 @@
-# Fourier Visualizer
+# Fourier Visualization CLI
 
 A command-line tool for visualizing and understanding the Fourier transform by converting time-domain signals to frequency-domain representations.
+
+<img width="1440" alt="スクリーンショット 2025-06-14 19 20 29" src="https://github.com/user-attachments/assets/adc82824-a909-407d-ae5e-b44f720cf4fb" />
 
 ## Features
 
